@@ -1,0 +1,26 @@
+{
+  "esgoto_percentual": 0.8,
+  "residencial_normal": {
+    "minimo": 41.18,
+    "faixas": [
+      { "min": 0, "max": 6, "valor": 41.18 },
+      { "min": 7, "max": 10, "valor": 1.63 },
+      { "min": 11, "max": 15, "valor": 11.53 },
+      { "min": 16, "max": 20, "valor": 12.34 },
+      { "min": 21, "max": 25, "valor": 13.87 },
+      { "min": 26, "max": 30, "valor": 15.47 },
+      { "min": 31, "max": 40, "valor": 17.00 },
+      { "min": 41, "max": 50, "valor": 18.65 },
+      { "min": 51, "valor": 22.44 }
+    ]
+  },
+  "comercial_reduzido": {
+    "minimo": 51.08,
+    "faixas": [
+      { "min": 0, "max": 6, "valor": 51.08 },
+      { "min": 7, "max": 10, "valor": 1.63 },
+      { "min": 11, "max": 50, "valor": 26.21 },
+      { "min": 51, "valor": 30.90 }
+    ]
+  }
+}
